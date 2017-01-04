@@ -12,6 +12,8 @@
 			</section>
 		</section>
 
+
+
 		<?php if (comments_open()): ?>
 		<section class="comments">
 			<?php if (has_comments()): ?>
